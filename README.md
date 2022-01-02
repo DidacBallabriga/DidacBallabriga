@@ -1,4 +1,4 @@
-public class AboutMe {
+<pre> public class AboutMe {
   public static void main(String[] args) {
     final String ME = "@DidacBallabriga 👋";
     final String[] LANGUAGES = {"Java", "Javascript", "PHP", "SQL", "HTML", "CSS"};
@@ -7,6 +7,7 @@ public class AboutMe {
     final String[] INTERESTS = {"Coding 💻", "Web 3.0 👨🏻‍💻", "Blockchain 👀"};
     final String CONTACT = "didac@ballabriga.com 📫";
   }
+  <pre>
 
 <!---
 DidacBallabriga/DidacBallabriga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
