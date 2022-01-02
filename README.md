@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @DidacBallabriga
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning Javascript
-- 📫 How to reach me didac@ballabriga.com
+public class AboutMe {
+  public static void main(String[] args) {
+    final String ME = "@DidacBallabriga 👋";
+    final String[] LANGUAGES = {"Java", "Javascript", "PHP", "SQL", "HTML", "CSS"};
+    final String FRAMEWORKS = {"Vue 🌱"};
+    final String LIBRARY = {"jQuery"};
+    final String[] INTERESTS = {"Coding 💻", "Web 3.0 👨🏻‍💻", "Blockchain 👀"};
+    final String CONTACT = "didac@ballabriga.com 📫";
+  }
 
 <!---
 DidacBallabriga/DidacBallabriga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
