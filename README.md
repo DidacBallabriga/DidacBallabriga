@@ -1,4 +1,7 @@
 <pre> public class AboutMe {
+<span class="pl-k">public</span>
+<span class="pl-k">class</span>
+<span class="pl-en">AboutMe</span>
   public static void main(String[] args) {
     final String ME = "@DidacBallabriga 👋";
     final String[] LANGUAGES = {"Java", "Javascript", "PHP", "SQL", "HTML", "CSS"};
