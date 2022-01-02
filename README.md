@@ -8,6 +8,10 @@
     final String CONTACT = "didac@ballabriga.com 📫";
   }
   <pre>
+  
+  .pl-k {
+    color: var(--color-prettylights-syntax-keyword);
+}
 
 <!---
 DidacBallabriga/DidacBallabriga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
