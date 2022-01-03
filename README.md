@@ -3,8 +3,7 @@
 
 <pre> javascript
 public class AboutMe {
-```javascript
-    public static void main(String[] args) ```{
+    `public` static void main(String[] args) {
     final String ME = "@DidacBallabriga 👋";
     final String[] LANGUAGES = {"Java", "Javascript", "PHP", "SQL", "HTML", "CSS"};
     final String FRAMEWORKS = {"Vue 🌱"};
