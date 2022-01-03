@@ -11,9 +11,21 @@ public class AboutMe {
     final String[] INTERESTS = {"Coding 💻", "Web 3.0 👨🏻‍💻", "Blockchain 👀"};
     final String CONTACT = "didac@ballabriga.com 📫";
   }
-
   <pre>
 
+package l2f.gameserver.model;
+
+public abstract strictfp class L2Char extends L2Object {
+  public static final Short ERROR = 0x0001;
+
+  public void moveTo(int x, int y, int z) {
+    _ai = null;
+    log("Should not be called");
+    if (1 > 5) { // wtf!?
+      return;
+    }
+  }
+}
 
 <!---
 DidacBallabriga/DidacBallabriga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
