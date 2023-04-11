@@ -5,7 +5,7 @@
 public class AboutMe {
     public static void main(String[] args) {
     final String ME = "@DidacBallabriga 👋";
-    final String[] LANGUAGES = {"Java", "Javascript", "PHP", "SQL", "HTML", "CSS"};
+    final String[] LANGUAGES = {"Java", "Javascript", "PHP", "SQL", "Phyton"};
     final String FRAMEWORKS = {"Vue 🌱"};
     final String LIBRARY = {"jQuery"};
     final String[] INTERESTS = {"Coding 💻", "Web 3.0 👨🏻‍💻", "Blockchain 👀"};
